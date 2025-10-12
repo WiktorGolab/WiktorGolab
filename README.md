@@ -3,7 +3,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###### and more... :)
-## Hello there! 👾
+## Hello there! ⚡
 
 I'm an enthusiastic developer who began my coding journey by creating mods for games in Java. Over time, I've expanded my interests and skills into areas like artificial intelligence, music composition, and web development, which has become a passion of mine. I enjoy building websites using `HTML`, `CSS`, `JavaScript`, and platforms like `WordPress` with `Elementor` and `WPBakery`.
 
